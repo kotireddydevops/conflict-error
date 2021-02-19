@@ -1,3 +1,2 @@
 i am dev with aws
-
-linix admin
+cloud admin
